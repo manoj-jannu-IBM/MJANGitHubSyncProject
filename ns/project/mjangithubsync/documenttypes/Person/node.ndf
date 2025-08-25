@@ -13,7 +13,7 @@
         <number name="createdDate" type="Long">1756147646978</number>
         <value name="lastModifiedBy">siqaauto</value>
         <value name="lastModifiedByUserId">b04e02a0ae1f4b88ab26b141dc08b19c</value>
-        <number name="lastModifiedDate" type="Long">1756147646978</number>
+        <number name="lastModifiedDate" type="Long">1756147770647</number>
       </record>
       <Boolean name="wMIODocTypeReplica">true</Boolean>
     </record>
@@ -51,7 +51,7 @@
           <value name="field_usereditable">false</value>
         </record>
         <value name="is_public">false</value>
-        <value name="field_name">age</value>
+        <value name="field_name">Age</value>
         <value name="field_type">object</value>
         <value name="field_dim">0</value>
         <value name="wrapper_type">java.lang.Integer</value>
@@ -61,5 +61,6 @@
       </record>
     </array>
     <value name="modifiable">true</value>
+    <value name="updateRSD">true</value>
   </record>
 </Values>
